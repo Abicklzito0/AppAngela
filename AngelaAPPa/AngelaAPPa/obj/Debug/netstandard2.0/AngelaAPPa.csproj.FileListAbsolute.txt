@@ -1,0 +1,12 @@
+C:\Users\carlos.leyva\source\repos\AngelaAPPa\AngelaAPPa\AngelaAPPa\bin\Debug\netstandard2.0\AngelaAPPa.deps.json
+C:\Users\carlos.leyva\source\repos\AngelaAPPa\AngelaAPPa\AngelaAPPa\bin\Debug\netstandard2.0\AngelaAPPa.dll
+C:\Users\carlos.leyva\source\repos\AngelaAPPa\AngelaAPPa\AngelaAPPa\bin\Debug\netstandard2.0\AngelaAPPa.pdb
+C:\Users\carlos.leyva\source\repos\AngelaAPPa\AngelaAPPa\AngelaAPPa\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\carlos.leyva\source\repos\AngelaAPPa\AngelaAPPa\AngelaAPPa\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\carlos.leyva\source\repos\AngelaAPPa\AngelaAPPa\AngelaAPPa\obj\Debug\netstandard2.0\AngelaAPPa.csproj.CoreCompileInputs.cache
+C:\Users\carlos.leyva\source\repos\AngelaAPPa\AngelaAPPa\AngelaAPPa\obj\Debug\netstandard2.0\AngelaAPPa.AssemblyInfoInputs.cache
+C:\Users\carlos.leyva\source\repos\AngelaAPPa\AngelaAPPa\AngelaAPPa\obj\Debug\netstandard2.0\AngelaAPPa.AssemblyInfo.cs
+C:\Users\carlos.leyva\source\repos\AngelaAPPa\AngelaAPPa\AngelaAPPa\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\carlos.leyva\source\repos\AngelaAPPa\AngelaAPPa\AngelaAPPa\obj\Debug\netstandard2.0\AngelaAPPa.dll
+C:\Users\carlos.leyva\source\repos\AngelaAPPa\AngelaAPPa\AngelaAPPa\obj\Debug\netstandard2.0\AngelaAPPa.pdb
+C:\Users\carlos.leyva\source\repos\AngelaAPPa\AngelaAPPa\AngelaAPPa\obj\Debug\netstandard2.0\AngelaAPPa.csprojAssemblyReference.cache
